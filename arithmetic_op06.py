@@ -7,3 +7,7 @@
 #Print the answer.
  
 #Print the number.
+number=21/2
+answer=number%1
+print(number)
+print(answer)
